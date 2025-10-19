@@ -1,0 +1,44 @@
+{
+  "name": "create-typical-env",
+  "version": "1.0.0",
+  "description": "CLI to quickly set up a Typical Env React + Tailwind + Shadcn project",
+  "main": "src/main.js",
+  "bin": {
+    "create-typical-env": "bin/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "cli",
+    "react",
+    "vite",
+    "tailwind",
+    "template",
+    "setup",
+    "react-router",
+    "boxicons",
+    "cn",
+    "clsx",
+    "tailwind-merge",
+    "react-bits",
+    "CSS AOS library"
+  ],
+  "author": "Christopher Nzenwata",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/typical-developer/typical-env-cli-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/typical-developer/typical-env-cli-tool/issues"
+  },
+  "homepage": "https://github.com/typical-developer/typical-env-cli-tool#readme",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "degit": "^2.8.4",
+    "ora": "^8.2.0",
+    "prompts": "^2.4.2"
+  }
+}
