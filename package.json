@@ -1,8 +1,7 @@
 {
   "name": "create-typical-env",
-  "version": "1.0.0",
-  "description": "CLI to quickly set up a Typical Env. Features & technologies included: React, Vite, React Router, React Router DOM, Tailwind CSS, clsx, twmerge, cn, CSS AOS library, Boxions, Shadcn, and React Bits."
-  ,
+  "version": "1.0.1",
+  "description": "CLI to quickly set up a Typical Env. Features & technologies included: React, Vite, React Router, React Router DOM, Tailwind CSS, clsx, twmerge, cn, CSS AOS library, Boxions, Shadcn, and React Bits.",
   "main": "src/main.js",
   "bin": {
     "create-typical-env": "bin/index.js"
